@@ -1,0 +1,35 @@
+[
+    {
+        "model": "books.book",
+        "pk": "54f805bf-7040-4da8-95d5-c4da129a1e06",
+        "fields": {
+            "title": "BookNr1",
+            "author": "VladPocris",
+            "price": "200.00",
+            "date_publication": "2022-11-09",
+            "Cover": "covers/PythonCookbook.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "ac2f9e88-15da-4127-9efe-b5092fd29d3a",
+        "fields": {
+            "title": "BookNr3",
+            "author": "Vlad",
+            "price": "500.00",
+            "date_publication": "2022-11-09",
+            "Cover": "covers/DjangoUnleashed.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "e9a9bf6a-f628-41c5-ae05-2942021c1795",
+        "fields": {
+            "title": "BookNr2",
+            "author": "PocrisVlad",
+            "price": "150.00",
+            "date_publication": "2022-11-09",
+            "Cover": "covers/Lightweight.jpg"
+        }
+    }
+]
